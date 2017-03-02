@@ -2,7 +2,7 @@ function varargout = Sol3D(varargin)
 % SOL3D M-file for Sol3D.fig
 
 
-% Programmer:  Sormeh Kashef Haghighi
+% Programmer:  Sormeh Kashef
 %      SOL3D, by itself, creates a new SOL3D or raises the existing
 %      singleton*.
 %
@@ -25,7 +25,7 @@ function varargout = Sol3D(varargin)
 
 % Edit the above text to modify the response to help Sol3D
 
-% Last Modified by GUIDE v2.5 29-Oct-2006 17:25:42
+% Last Modified by GUIDE v2.5 29-Oct-2008 17:25:42
 
 % Inorder to be compatible with MATLAB 7.1: In the GUIDE tool menue, GUI
 % options, Resize behaviour ---> Proportional  The problem before changing
